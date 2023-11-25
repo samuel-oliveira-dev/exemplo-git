@@ -41,6 +41,7 @@ Se você quiser contribuir, siga estas etapas simples:
 
 - Melhoria da interface do usuário.
 - Adição de backend para persistência de dados.
+- Implementação de frontend
 
 ## Licença
 
